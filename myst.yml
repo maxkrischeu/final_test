@@ -1,6 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  github: https://github.com/maxkrischeu/manimations_jupyter-notebook
   jupyter: true
   id: c3fd7741-c8bb-450c-a8b2-4e97390891a4
   title: Lineare Algebra
@@ -9,7 +10,6 @@ project:
   # description:
   # keywords: []
   authors: [Max Krischeu]
-  github: https://github.com/maxkrischeu/final_test
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: Lineare-Abbildungen.ipynb
