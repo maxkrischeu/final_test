@@ -2,7 +2,7 @@
 version: 1
 project:
   github: https://github.com/maxkrischeu/manimations_jupyter-notebook
-  jupyter: true
+  jupyter: 'binder'
   id: c3fd7741-c8bb-450c-a8b2-4e97390891a4
   title: Lineare Algebra
   date: 2025-05-08
